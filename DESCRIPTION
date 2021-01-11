@@ -1,0 +1,10 @@
+Package: lshawkes
+Type: Package
+Title: Varying Parameter Estimation for Locally Stationary Hawkes Process
+Version: 0.1.0
+Author: Andrew Connell
+Maintainer: Andrew Connell <amc19@ic.ac.uk>
+Description: Implements various methods for estimating the varying parameters for the locally stationary Hawkes process.
+License: GPL
+Encoding: UTF-8
+LazyData: true
