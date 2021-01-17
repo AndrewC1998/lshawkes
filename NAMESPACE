@@ -1,1 +1,6 @@
+## package has a dynamic library
+useDynLib(lshawkes)
+import(Rcpp)
+#import(RcppArmadillo)
+
 exportPattern("^[[:alpha:]]+")
