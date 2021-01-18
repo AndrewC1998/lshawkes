@@ -4,11 +4,12 @@ Date: 2021-01-01
 Type: Package
 Title: Varying Parameter Estimation for Locally Stationary Hawkes Process
 Version: 0.1.0
+Imports: hawkes
 Author: Andrew Connell
 Maintainer: Andrew Connell <amc19@ic.ac.uk>
 Description: Implements various methods for estimating the varying parameters for the locally stationary Hawkes process.
+Depends: R(>= 3.1), hawkes
 License: GPL
 Encoding: UTF-8
 LazyData: true
-Depends: R (>= 3.0.2)
 Imports: Rcpp (>= 0.11.1)
